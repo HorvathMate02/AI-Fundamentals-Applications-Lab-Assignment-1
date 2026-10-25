@@ -1,4 +1,4 @@
-# Artificial Intelligence Fundamentals & Applications - Lab 1 Assignment
+# Artificial Intelligence: Fundamentals & Applications Lab Assignment 1
 
 ## Project Overview
 The overall assignment integrates core AI concepts, specifically **Classical Search Algorithms** (BFS, A* Search) and **Regularized Regression Modeling** (Linear vs. Ridge Regression). Designed with a low-code and conceptual problem-solving focus, this project demonstrates the application of Machine Learning using Scikit-Learn and interactive learning with Generative AI copilots.
