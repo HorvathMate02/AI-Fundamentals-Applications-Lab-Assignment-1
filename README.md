@@ -1,13 +1,13 @@
 # Artificial Intelligence: Fundamentals & Applications Lab Assignment 1
 
 ## Project Overview
-The overall assignment integrates core AI concepts, specifically **Classical Search Algorithms** (BFS, A* Search) and **Regularized Regression Modeling** (Linear vs. Ridge Regression). Designed with a low-code and conceptual problem-solving focus, this project demonstrates the application of Machine Learning using Scikit-Learn and interactive learning with Generative AI copilots.
+The overall assignment integrates core AI concepts, specifically Classical Search Algorithms (BFS, A* Search) and Regularized Regression Modeling (Linear vs. Ridge Regression). Designed with a low-code and conceptual problem-solving focus, this project demonstrates the application of Machine Learning using Scikit-Learn and interactive learning with Generative AI copilots.
 
 ## Repository Contents
 * **`Horvath_Mate_Lab_Assignment_1.ipynb`**: The completed Google Colab notebook containing the Python code for:
   * Fetching and sampling the California Housing dataset.
   * Preprocessing and scaling continuous input features using `StandardScaler`.
-  * Training and evaluating **Linear Regression** and **Ridge Regression** models.
+  * Training and evaluating Linear Regression and Ridge Regression models.
   * Performing 5-Fold Cross-Validation for robust performance metrics ($R^2$ scores).
   * Visualizing the performance comparison across different L2 regularization penalties ($\alpha = 0.1, 10.0, 1000.0$).
 * **`README.md`**: This detailed documentation file.
@@ -15,7 +15,7 @@ The overall assignment integrates core AI concepts, specifically **Classical Sea
 The hand calculations for Part 1 Graph Traversal and 8-Puzzle Problem using A* Search, along with the detailed AI Prompting Logs, are submitted as a separate PDF Report.
 
 ## Machine Learning Experiment: Key Findings
-In **Part 2: Applied Machine Learning**, I utilized the California Housing Dataset to predict continuous target variables (`MedHouseVal`). Key conceptual takeaways include:
+In Part 2: Applied Machine Learning, I utilized the California Housing Dataset to predict continuous target variables (`MedHouseVal`). Key conceptual takeaways include:
 
 1. **Feature Scaling:** Applying `StandardScaler` was crucial to ensure features with naturally large numerical ranges (like population) did not dominate the regression calculations over smaller-scaled features (like average rooms).
 2. **Cross-Validation vs. Single Split:** Using 5-Fold Cross-Validation provided a much more reliable evaluation metric by testing the model across multiple slices of the data, reducing the risk of a "lucky" train/test split.
