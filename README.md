@@ -1,14 +1,10 @@
-# AI-Fundamentals-Applications-Lab-1-Assignment
-
-# SC5002 Artificial Intelligence Fundamentals & Applications - Lab Assignment
+# Artificial Intelligence Fundamentals & Applications - Lab 1 Assignment
 
 ## Project Overview
-This repository contains the practical Machine Learning implementation for the SC5002 course assignment at Nanyang Technological University (NTU). The overall assignment integrates core AI concepts, specifically **Classical Search Algorithms** (BFS, A* Search) and **Regularized Regression Modeling** (Linear vs. Ridge Regression). 
-
-Designed with a low-code and conceptual problem-solving focus, this project demonstrates the application of Machine Learning using Scikit-Learn and interactive learning with Generative AI copilots.
+The overall assignment integrates core AI concepts, specifically **Classical Search Algorithms** (BFS, A* Search) and **Regularized Regression Modeling** (Linear vs. Ridge Regression). Designed with a low-code and conceptual problem-solving focus, this project demonstrates the application of Machine Learning using Scikit-Learn and interactive learning with Generative AI copilots.
 
 ## Repository Contents
-* **`SC5002_ML_Assignment.ipynb`**: The completed Google Colab notebook containing the Python code for:
+* **`Horvath_Mate_Lab_Assignment_1.ipynb`**: The completed Google Colab notebook containing the Python code for:
   * Fetching and sampling the California Housing dataset.
   * Preprocessing and scaling continuous input features using `StandardScaler`.
   * Training and evaluating **Linear Regression** and **Ridge Regression** models.
