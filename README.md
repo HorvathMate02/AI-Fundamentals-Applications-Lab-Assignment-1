@@ -12,7 +12,7 @@ The overall assignment integrates core AI concepts, specifically **Classical Sea
   * Visualizing the performance comparison across different L2 regularization penalties ($\alpha = 0.1, 10.0, 1000.0$).
 * **`README.md`**: This detailed documentation file.
 
-*(Note: The hand calculations for Part 1 - Graph Traversal and 8-Puzzle Problem using A* Search, along with the detailed AI Prompting Logs, are submitted as a separate PDF Report via NTULearn).*
+*The hand calculations for Part 1 - Graph Traversal and 8-Puzzle Problem using A* Search, along with the detailed AI Prompting Logs, are submitted as a separate PDF Report.*
 
 ## Machine Learning Experiment: Key Findings
 In **Part 2: Applied Machine Learning**, we utilized the California Housing Dataset to predict continuous target variables (`MedHouseVal`). Key conceptual takeaways include:
