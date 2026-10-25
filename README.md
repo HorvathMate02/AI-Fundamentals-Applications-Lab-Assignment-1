@@ -12,7 +12,7 @@ The overall assignment integrates core AI concepts, specifically **Classical Sea
   * Visualizing the performance comparison across different L2 regularization penalties ($\alpha = 0.1, 10.0, 1000.0$).
 * **`README.md`**: This detailed documentation file.
 
-*The hand calculations for Part 1 - Graph Traversal and 8-Puzzle Problem using A* Search, along with the detailed AI Prompting Logs, are submitted as a separate PDF Report.*
+The hand calculations for Part 1 - Graph Traversal and 8-Puzzle Problem using A* Search, along with the detailed AI Prompting Logs, are submitted as a separate PDF Report.
 
 ## Machine Learning Experiment: Key Findings
 In **Part 2: Applied Machine Learning**, we utilized the California Housing Dataset to predict continuous target variables (`MedHouseVal`). Key conceptual takeaways include:
@@ -28,9 +28,6 @@ In **Part 2: Applied Machine Learning**, we utilized the California Housing Data
 2. Go to [Google Colab](https://colab.research.google.com/).
 3. Click on **File > Upload notebook** and select the downloaded file.
 4. Click on **Runtime > Run all** (or run the single cell directly) to execute the script and view the dataset rows, cross-validation scores, and the generated bar chart.
-
-## AI Copilot Integration ("Learn with AI")
-In accordance with the assignment guidelines, Generative AI (e.g., ChatGPT / Gemini / Claude) was actively used as an interactive learning partner throughout this project. It assisted in:
 * Clarifying theoretical concepts such as "admissible heuristics" using real-world GPS analogies.
 * Verifying node-selection decisions in the A* Search 8-Puzzle problem.
 * Synthesizing the impact of L2 Regularization and the bias-variance tradeoff in layman's terms for non-technical audiences.
