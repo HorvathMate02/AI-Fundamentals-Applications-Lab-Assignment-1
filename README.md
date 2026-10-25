@@ -1,0 +1,1 @@
+# AI-Fundamentals-Applications-Lab-1-Assignment
