@@ -24,15 +24,7 @@ In **Part 2: Applied Machine Learning**, I utilized the California Housing Datas
    * However, an extremely high penalty (e.g., $\alpha = 1000.0$) severely restricted the model's flexibility to learn patterns, causing performance to drop significantly due to underfitting.
 
 ## How to Run the Code
-1. Download the `SC5002_ML_Assignment.ipynb` file from this repository.
+1. Download the `Horvath_Mate_Lab_Assignment_1.ipynb` file from this repository.
 2. Go to [Google Colab](https://colab.research.google.com/).
 3. Click on **File > Upload notebook** and select the downloaded file.
 4. Click on **Runtime > Run all** (or run the single cell directly) to execute the script and view the dataset rows, cross-validation scores, and the generated bar chart.
-* Clarifying theoretical concepts such as "admissible heuristics" using real-world GPS analogies.
-* Verifying node-selection decisions in the A* Search 8-Puzzle problem.
-* Synthesizing the impact of L2 Regularization and the bias-variance tradeoff in layman's terms for non-technical audiences.
-
----
-**Author:** [Your Name]  
-**Course:** SC5002 - Artificial Intelligence Fundamentals & Applications  
-**Institution:** Nanyang Technological University (NTU)
